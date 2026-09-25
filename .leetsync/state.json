@@ -1,18 +1,42 @@
 {
   "v": 1,
-  "updatedAt": 1790347023143,
+  "updatedAt": 1790347120482,
   "devices": {
     "b9e9c9c8-bda0-4acd-a7bf-6717c04c229b": {
-      "lastSeen": 1790347022700
+      "lastSeen": 1790347117757
     }
   },
-  "problems": {},
-  "achievements": {},
+  "problems": {
+    "125": {
+      "attempts": 1,
+      "bestMemory": "13.1 MB (Beats 39%)",
+      "bestRuntime": "133 ms (Beats 27%)",
+      "date": "2026-09-25",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-25",
+      "folderName": "0125-Valid-Palindrome",
+      "language": "Python",
+      "number": 125,
+      "slug": "valid-palindrome",
+      "solutionCount": 1,
+      "tags": [
+        "Two Pointers",
+        "String"
+      ],
+      "title": "Valid Palindrome",
+      "at": 1790347117757
+    }
+  },
+  "achievements": {
+    "first_blood": 1790347034385
+  },
   "sheets": {},
-  "days": [],
+  "days": [
+    "2026-09-25"
+  ],
   "bests": {
-    "longestStreak": 0,
-    "pushes": 0
+    "longestStreak": 1,
+    "pushes": 1
   },
   "identity": {
     "installId": "1481a6b1-4741-4445-b56d-7a573eb172a6",
