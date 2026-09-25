@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "updatedAt": 1790345918218,
+  "devices": {
+    "b9e9c9c8-bda0-4acd-a7bf-6717c04c229b": {
+      "lastSeen": 1790345917762
+    }
+  },
+  "problems": {},
+  "achievements": {},
+  "sheets": {},
+  "days": [],
+  "bests": {
+    "longestStreak": 0,
+    "pushes": 0
+  },
+  "identity": {
+    "installId": "1481a6b1-4741-4445-b56d-7a573eb172a6",
+    "at": 1790345617715,
+    "name": "Rani Vamshika",
+    "nameAt": 1790345725741
+  }
+}
