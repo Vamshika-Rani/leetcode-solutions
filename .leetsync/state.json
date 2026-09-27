@@ -1,12 +1,32 @@
 {
   "v": 1,
-  "updatedAt": 1790532664646,
+  "updatedAt": 1790533165639,
   "devices": {
     "b9e9c9c8-bda0-4acd-a7bf-6717c04c229b": {
-      "lastSeen": 1790532664015
+      "lastSeen": 1790533165042
     }
   },
   "problems": {
+    "14": {
+      "attempts": 1,
+      "bestMemory": "12.5 MB (Beats 36%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-27",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-27",
+      "folderName": "0014-Longest-Common-Prefix",
+      "language": "Python",
+      "number": 14,
+      "slug": "longest-common-prefix",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "String",
+        "Trie"
+      ],
+      "title": "Longest Common Prefix",
+      "at": 1790533165042
+    },
     "125": {
       "attempts": 1,
       "bestMemory": "13.1 MB (Beats 39%)",
@@ -24,7 +44,7 @@
         "String"
       ],
       "title": "Valid Palindrome",
-      "at": 1790532664015
+      "at": 1790533165042
     },
     "205": {
       "attempts": 3,
@@ -43,7 +63,7 @@
         "String"
       ],
       "title": "Isomorphic Strings",
-      "at": 1790532664015
+      "at": 1790533165042
     },
     "1903": {
       "attempts": 1,
@@ -63,20 +83,22 @@
         "Greedy"
       ],
       "title": "Largest Odd Number in String",
-      "at": 1790532664015
+      "at": 1790533165042
     }
   },
   "achievements": {
-    "first_blood": 1790347034385
+    "first_blood": 1790347034385,
+    "on_fire": 1790532677507
   },
   "sheets": {},
   "days": [
     "2026-09-25",
-    "2026-09-26"
+    "2026-09-26",
+    "2026-09-27"
   ],
   "bests": {
-    "longestStreak": 2,
-    "pushes": 4
+    "longestStreak": 3,
+    "pushes": 5
   },
   "identity": {
     "installId": "1481a6b1-4741-4445-b56d-7a573eb172a6",
