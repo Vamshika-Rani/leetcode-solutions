@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790637395250,
+  "updatedAt": 1790664823574,
   "devices": {
     "b9e9c9c8-bda0-4acd-a7bf-6717c04c229b": {
-      "lastSeen": 1790637107759
+      "lastSeen": 1790664817763
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Trie"
       ],
       "title": "Longest Common Prefix",
-      "at": 1790637107759
+      "at": 1790664817763
     },
     "125": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "String"
       ],
       "title": "Valid Palindrome",
-      "at": 1790637107759
+      "at": 1790664817763
     },
     "205": {
       "attempts": 3,
@@ -63,7 +63,7 @@
         "String"
       ],
       "title": "Isomorphic Strings",
-      "at": 1790637107759
+      "at": 1790664817763
     },
     "1903": {
       "attempts": 1,
@@ -83,10 +83,11 @@
         "Greedy"
       ],
       "title": "Largest Odd Number in String",
-      "at": 1790637107759
+      "at": 1790664817763
     }
   },
   "achievements": {
+    "early_bird": 1790638485299,
     "first_blood": 1790347034385,
     "night_owl": 1790534019172,
     "on_fire": 1790532677507
