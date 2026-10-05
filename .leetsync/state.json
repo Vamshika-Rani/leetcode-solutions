@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791221011280,
+  "updatedAt": 1791221187922,
   "devices": {
     "b9e9c9c8-bda0-4acd-a7bf-6717c04c229b": {
-      "lastSeen": 1791221010889
+      "lastSeen": 1791221187496
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Trie"
       ],
       "title": "Longest Common Prefix",
-      "at": 1791221010889
+      "at": 1791221187496
     },
     "125": {
       "attempts": 1,
@@ -44,12 +44,12 @@
         "String"
       ],
       "title": "Valid Palindrome",
-      "at": 1791221010889
+      "at": 1791221187496
     },
     "189": {
-      "attempts": 3,
-      "bestMemory": "26.7 MB (Beats 77%)",
-      "bestRuntime": "173 ms (Beats 13%)",
+      "attempts": 4,
+      "bestMemory": "28.2 MB (Beats 28%)",
+      "bestRuntime": "167 ms (Beats 19%)",
       "date": "2026-10-05",
       "difficulty": "Medium",
       "firstSolvedOn": "2026-10-05",
@@ -57,14 +57,14 @@
       "language": "Python",
       "number": 189,
       "slug": "rotate-array",
-      "solutionCount": 1,
+      "solutionCount": 2,
       "tags": [
         "Array",
         "Math",
         "Two Pointers"
       ],
       "title": "Rotate Array",
-      "at": 1791221010889
+      "at": 1791221187496
     },
     "205": {
       "attempts": 3,
@@ -83,7 +83,7 @@
         "String"
       ],
       "title": "Isomorphic Strings",
-      "at": 1791221010889
+      "at": 1791221187496
     },
     "485": {
       "attempts": 1,
@@ -101,7 +101,7 @@
         "Array"
       ],
       "title": "Max Consecutive Ones",
-      "at": 1791221010889
+      "at": 1791221187496
     },
     "1903": {
       "attempts": 1,
@@ -121,7 +121,7 @@
         "Greedy"
       ],
       "title": "Largest Odd Number in String",
-      "at": 1791221010889
+      "at": 1791221187496
     }
   },
   "achievements": {
@@ -139,7 +139,7 @@
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 7
+    "pushes": 8
   },
   "identity": {
     "installId": "1481a6b1-4741-4445-b56d-7a573eb172a6",
