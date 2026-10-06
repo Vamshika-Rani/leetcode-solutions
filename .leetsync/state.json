@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791302904221,
+  "updatedAt": 1791303032096,
   "devices": {
     "b9e9c9c8-bda0-4acd-a7bf-6717c04c229b": {
-      "lastSeen": 1791302903695
+      "lastSeen": 1791303031503
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Trie"
       ],
       "title": "Longest Common Prefix",
-      "at": 1791302903695
+      "at": 1791303031503
     },
     "125": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "String"
       ],
       "title": "Valid Palindrome",
-      "at": 1791302903695
+      "at": 1791303031503
     },
     "189": {
       "attempts": 4,
@@ -64,7 +64,7 @@
         "Two Pointers"
       ],
       "title": "Rotate Array",
-      "at": 1791302903695
+      "at": 1791303031503
     },
     "205": {
       "attempts": 3,
@@ -83,7 +83,26 @@
         "String"
       ],
       "title": "Isomorphic Strings",
-      "at": 1791302903695
+      "at": 1791303031503
+    },
+    "283": {
+      "attempts": 1,
+      "bestMemory": "13.7 MB (Beats 20%)",
+      "bestRuntime": "11 ms (Beats 26%)",
+      "date": "2026-10-06",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-06",
+      "folderName": "0283-Move-Zeroes",
+      "language": "Python",
+      "number": 283,
+      "slug": "move-zeroes",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Two Pointers"
+      ],
+      "title": "Move Zeroes",
+      "at": 1791303031503
     },
     "485": {
       "attempts": 1,
@@ -101,7 +120,7 @@
         "Array"
       ],
       "title": "Max Consecutive Ones",
-      "at": 1791302903695
+      "at": 1791303031503
     },
     "1903": {
       "attempts": 1,
@@ -121,7 +140,7 @@
         "Greedy"
       ],
       "title": "Largest Odd Number in String",
-      "at": 1791302903695
+      "at": 1791303031503
     }
   },
   "achievements": {
@@ -135,11 +154,12 @@
     "2026-09-25",
     "2026-09-26",
     "2026-09-27",
-    "2026-10-05"
+    "2026-10-05",
+    "2026-10-06"
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 8
+    "pushes": 9
   },
   "identity": {
     "installId": "1481a6b1-4741-4445-b56d-7a573eb172a6",
