@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791389222816,
+  "updatedAt": 1791389431957,
   "devices": {
     "b9e9c9c8-bda0-4acd-a7bf-6717c04c229b": {
-      "lastSeen": 1791389222393
+      "lastSeen": 1791389431505
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1791389222393
+      "at": 1791389431505
     },
     "14": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Trie"
       ],
       "title": "Longest Common Prefix",
-      "at": 1791389222393
+      "at": 1791389431505
     },
     "26": {
       "attempts": 1,
@@ -63,7 +63,27 @@
         "Two Pointers"
       ],
       "title": "Remove Duplicates from Sorted Array",
-      "at": 1791389222393
+      "at": 1791389431505
+    },
+    "73": {
+      "attempts": 1,
+      "bestMemory": "13.6 MB (Beats 96%)",
+      "bestRuntime": "518 ms (Beats 8%)",
+      "date": "2026-10-07",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-07",
+      "folderName": "0073-Set-Matrix-Zeroes",
+      "language": "Python",
+      "number": 73,
+      "slug": "set-matrix-zeroes",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ],
+      "title": "Set Matrix Zeroes",
+      "at": 1791389431505
     },
     "75": {
       "attempts": 1,
@@ -85,7 +105,7 @@
         "Bubble Sort"
       ],
       "title": "Sort Colors",
-      "at": 1791389222393
+      "at": 1791389431505
     },
     "125": {
       "attempts": 1,
@@ -104,7 +124,7 @@
         "String"
       ],
       "title": "Valid Palindrome",
-      "at": 1791389222393
+      "at": 1791389431505
     },
     "169": {
       "attempts": 1,
@@ -127,7 +147,7 @@
         "Boyer–Moore Majority Vote Algorithm"
       ],
       "title": "Majority Element",
-      "at": 1791389222393
+      "at": 1791389431505
     },
     "189": {
       "attempts": 4,
@@ -147,7 +167,7 @@
         "Two Pointers"
       ],
       "title": "Rotate Array",
-      "at": 1791389222393
+      "at": 1791389431505
     },
     "205": {
       "attempts": 3,
@@ -166,7 +186,7 @@
         "String"
       ],
       "title": "Isomorphic Strings",
-      "at": 1791389222393
+      "at": 1791389431505
     },
     "268": {
       "attempts": 1,
@@ -189,7 +209,7 @@
         "Sorting"
       ],
       "title": "Missing Number",
-      "at": 1791389222393
+      "at": 1791389431505
     },
     "283": {
       "attempts": 1,
@@ -208,7 +228,7 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1791389222393
+      "at": 1791389431505
     },
     "485": {
       "attempts": 1,
@@ -226,7 +246,7 @@
         "Array"
       ],
       "title": "Max Consecutive Ones",
-      "at": 1791389222393
+      "at": 1791389431505
     },
     "1903": {
       "attempts": 1,
@@ -246,7 +266,7 @@
         "Greedy"
       ],
       "title": "Largest Odd Number in String",
-      "at": 1791389222393
+      "at": 1791389431505
     },
     "2149": {
       "attempts": 1,
@@ -266,7 +286,7 @@
         "Simulation"
       ],
       "title": "Rearrange Array Elements by Sign",
-      "at": 1791389222393
+      "at": 1791389431505
     }
   },
   "achievements": {
@@ -289,7 +309,7 @@
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 15
+    "pushes": 16
   },
   "identity": {
     "installId": "1481a6b1-4741-4445-b56d-7a573eb172a6",
