@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791386409746,
+  "updatedAt": 1791386732053,
   "devices": {
     "b9e9c9c8-bda0-4acd-a7bf-6717c04c229b": {
-      "lastSeen": 1791386409338
+      "lastSeen": 1791386731504
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1791386409338
+      "at": 1791386731504
     },
     "14": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Trie"
       ],
       "title": "Longest Common Prefix",
-      "at": 1791386409338
+      "at": 1791386731504
     },
     "26": {
       "attempts": 1,
@@ -63,7 +63,29 @@
         "Two Pointers"
       ],
       "title": "Remove Duplicates from Sorted Array",
-      "at": 1791386409338
+      "at": 1791386731504
+    },
+    "75": {
+      "attempts": 1,
+      "bestMemory": "12.5 MB (Beats 20%)",
+      "bestRuntime": "3 ms (Beats 18%)",
+      "date": "2026-10-07",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-07",
+      "folderName": "0075-Sort-Colors",
+      "language": "Python",
+      "number": 75,
+      "slug": "sort-colors",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Two Pointers",
+        "Sorting",
+        "Quicksort",
+        "Bubble Sort"
+      ],
+      "title": "Sort Colors",
+      "at": 1791386731504
     },
     "125": {
       "attempts": 1,
@@ -82,7 +104,7 @@
         "String"
       ],
       "title": "Valid Palindrome",
-      "at": 1791386409338
+      "at": 1791386731504
     },
     "169": {
       "attempts": 1,
@@ -105,7 +127,7 @@
         "Boyer–Moore Majority Vote Algorithm"
       ],
       "title": "Majority Element",
-      "at": 1791386409338
+      "at": 1791386731504
     },
     "189": {
       "attempts": 4,
@@ -125,7 +147,7 @@
         "Two Pointers"
       ],
       "title": "Rotate Array",
-      "at": 1791386409338
+      "at": 1791386731504
     },
     "205": {
       "attempts": 3,
@@ -144,7 +166,7 @@
         "String"
       ],
       "title": "Isomorphic Strings",
-      "at": 1791386409338
+      "at": 1791386731504
     },
     "268": {
       "attempts": 1,
@@ -167,7 +189,7 @@
         "Sorting"
       ],
       "title": "Missing Number",
-      "at": 1791386409338
+      "at": 1791386731504
     },
     "283": {
       "attempts": 1,
@@ -186,7 +208,7 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1791386409338
+      "at": 1791386731504
     },
     "485": {
       "attempts": 1,
@@ -204,7 +226,7 @@
         "Array"
       ],
       "title": "Max Consecutive Ones",
-      "at": 1791386409338
+      "at": 1791386731504
     },
     "1903": {
       "attempts": 1,
@@ -224,7 +246,7 @@
         "Greedy"
       ],
       "title": "Largest Odd Number in String",
-      "at": 1791386409338
+      "at": 1791386731504
     },
     "2149": {
       "attempts": 1,
@@ -244,7 +266,7 @@
         "Simulation"
       ],
       "title": "Rearrange Array Elements by Sign",
-      "at": 1791386409338
+      "at": 1791386731504
     }
   },
   "achievements": {
@@ -267,7 +289,7 @@
   ],
   "bests": {
     "longestStreak": 3,
-    "pushes": 14
+    "pushes": 15
   },
   "identity": {
     "installId": "1481a6b1-4741-4445-b56d-7a573eb172a6",
