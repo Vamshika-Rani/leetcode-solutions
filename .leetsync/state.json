@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791657991561,
+  "updatedAt": 1791658231989,
   "devices": {
     "b9e9c9c8-bda0-4acd-a7bf-6717c04c229b": {
-      "lastSeen": 1791657991141
+      "lastSeen": 1791658231501
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1791657991141
+      "at": 1791658231501
     },
     "14": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Trie"
       ],
       "title": "Longest Common Prefix",
-      "at": 1791657991141
+      "at": 1791658231501
     },
     "26": {
       "attempts": 1,
@@ -63,7 +63,26 @@
         "Two Pointers"
       ],
       "title": "Remove Duplicates from Sorted Array",
-      "at": 1791657991141
+      "at": 1791658231501
+    },
+    "27": {
+      "attempts": 1,
+      "bestMemory": "12.3 MB (Beats 55%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-10",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-10",
+      "folderName": "0027-Remove-Element",
+      "language": "Python",
+      "number": 27,
+      "slug": "remove-element",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Two Pointers"
+      ],
+      "title": "Remove Element",
+      "at": 1791658231501
     },
     "53": {
       "attempts": 1,
@@ -83,7 +102,7 @@
         "Dynamic Programming"
       ],
       "title": "Maximum Subarray",
-      "at": 1791657991141
+      "at": 1791658231501
     },
     "73": {
       "attempts": 1,
@@ -103,7 +122,7 @@
         "Matrix"
       ],
       "title": "Set Matrix Zeroes",
-      "at": 1791657991141
+      "at": 1791658231501
     },
     "75": {
       "attempts": 1,
@@ -125,7 +144,7 @@
         "Bubble Sort"
       ],
       "title": "Sort Colors",
-      "at": 1791657991141
+      "at": 1791658231501
     },
     "125": {
       "attempts": 1,
@@ -144,7 +163,7 @@
         "String"
       ],
       "title": "Valid Palindrome",
-      "at": 1791657991141
+      "at": 1791658231501
     },
     "169": {
       "attempts": 1,
@@ -167,7 +186,7 @@
         "Boyer–Moore Majority Vote Algorithm"
       ],
       "title": "Majority Element",
-      "at": 1791657991141
+      "at": 1791658231501
     },
     "189": {
       "attempts": 4,
@@ -187,7 +206,7 @@
         "Two Pointers"
       ],
       "title": "Rotate Array",
-      "at": 1791657991141
+      "at": 1791658231501
     },
     "205": {
       "attempts": 3,
@@ -206,7 +225,7 @@
         "String"
       ],
       "title": "Isomorphic Strings",
-      "at": 1791657991141
+      "at": 1791658231501
     },
     "268": {
       "attempts": 1,
@@ -229,7 +248,7 @@
         "Sorting"
       ],
       "title": "Missing Number",
-      "at": 1791657991141
+      "at": 1791658231501
     },
     "283": {
       "attempts": 1,
@@ -248,7 +267,7 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1791657991141
+      "at": 1791658231501
     },
     "485": {
       "attempts": 1,
@@ -266,7 +285,7 @@
         "Array"
       ],
       "title": "Max Consecutive Ones",
-      "at": 1791657991141
+      "at": 1791658231501
     },
     "1903": {
       "attempts": 1,
@@ -286,7 +305,7 @@
         "Greedy"
       ],
       "title": "Largest Odd Number in String",
-      "at": 1791657991141
+      "at": 1791658231501
     },
     "2149": {
       "attempts": 1,
@@ -306,7 +325,7 @@
         "Simulation"
       ],
       "title": "Rearrange Array Elements by Sign",
-      "at": 1791657991141
+      "at": 1791658231501
     }
   },
   "achievements": {
@@ -326,11 +345,12 @@
     "2026-10-05",
     "2026-10-06",
     "2026-10-07",
-    "2026-10-08"
+    "2026-10-08",
+    "2026-10-10"
   ],
   "bests": {
     "longestStreak": 4,
-    "pushes": 17
+    "pushes": 18
   },
   "identity": {
     "installId": "1481a6b1-4741-4445-b56d-7a573eb172a6",
