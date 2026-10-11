@@ -29,7 +29,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
-| 1 | [Two Sum](problems/0001-Two-Sum) | 🟩 Easy | `Python` | 2026-10-07 |
+| 1 | [Two Sum](problems/0001-Two-Sum) | 🟩 Easy | `Python` | 2026-10-11 |
 | 14 | [Longest Common Prefix](problems/0014-Longest-Common-Prefix) | 🟩 Easy | `Python` | 2026-09-27 |
 | 26 | [Remove Duplicates from Sorted Array](problems/0026-Remove-Duplicates-from-Sorted-Array) | 🟩 Easy | `Python` | 2026-10-06 |
 | 27 | [Remove Element](problems/0027-Remove-Element) | 🟩 Easy | `Python` | 2026-10-10 |
