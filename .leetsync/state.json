@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791903635280,
+  "updatedAt": 1791903932175,
   "devices": {
     "b9e9c9c8-bda0-4acd-a7bf-6717c04c229b": {
-      "lastSeen": 1791903631506
+      "lastSeen": 1791903931495
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1791903631506
+      "at": 1791903931495
     },
     "14": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Trie"
       ],
       "title": "Longest Common Prefix",
-      "at": 1791903631506
+      "at": 1791903931495
     },
     "26": {
       "attempts": 1,
@@ -63,7 +63,7 @@
         "Two Pointers"
       ],
       "title": "Remove Duplicates from Sorted Array",
-      "at": 1791903631506
+      "at": 1791903931495
     },
     "27": {
       "attempts": 1,
@@ -82,7 +82,7 @@
         "Two Pointers"
       ],
       "title": "Remove Element",
-      "at": 1791903631506
+      "at": 1791903931495
     },
     "53": {
       "attempts": 1,
@@ -102,7 +102,7 @@
         "Dynamic Programming"
       ],
       "title": "Maximum Subarray",
-      "at": 1791903631506
+      "at": 1791903931495
     },
     "73": {
       "attempts": 1,
@@ -122,7 +122,7 @@
         "Matrix"
       ],
       "title": "Set Matrix Zeroes",
-      "at": 1791903631506
+      "at": 1791903931495
     },
     "75": {
       "attempts": 1,
@@ -144,7 +144,7 @@
         "Bubble Sort"
       ],
       "title": "Sort Colors",
-      "at": 1791903631506
+      "at": 1791903931495
     },
     "88": {
       "attempts": 2,
@@ -164,7 +164,26 @@
         "Sorting"
       ],
       "title": "Merge Sorted Array",
-      "at": 1791903631506
+      "at": 1791903931495
+    },
+    "121": {
+      "attempts": 3,
+      "bestMemory": "19.8 MB (Beats 15%)",
+      "bestRuntime": "155 ms (Beats 7%)",
+      "date": "2026-10-13",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-13",
+      "folderName": "0121-Best-Time-to-Buy-and-Sell-Stock",
+      "language": "Python",
+      "number": 121,
+      "slug": "best-time-to-buy-and-sell-stock",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "title": "Best Time to Buy and Sell Stock",
+      "at": 1791903931495
     },
     "125": {
       "attempts": 1,
@@ -183,7 +202,7 @@
         "String"
       ],
       "title": "Valid Palindrome",
-      "at": 1791903631506
+      "at": 1791903931495
     },
     "169": {
       "attempts": 1,
@@ -206,7 +225,7 @@
         "Boyer–Moore Majority Vote Algorithm"
       ],
       "title": "Majority Element",
-      "at": 1791903631506
+      "at": 1791903931495
     },
     "189": {
       "attempts": 4,
@@ -226,7 +245,7 @@
         "Two Pointers"
       ],
       "title": "Rotate Array",
-      "at": 1791903631506
+      "at": 1791903931495
     },
     "205": {
       "attempts": 3,
@@ -245,7 +264,7 @@
         "String"
       ],
       "title": "Isomorphic Strings",
-      "at": 1791903631506
+      "at": 1791903931495
     },
     "217": {
       "attempts": 1,
@@ -265,7 +284,7 @@
         "Sorting"
       ],
       "title": "Contains Duplicate",
-      "at": 1791903631506
+      "at": 1791903931495
     },
     "268": {
       "attempts": 1,
@@ -288,7 +307,7 @@
         "Sorting"
       ],
       "title": "Missing Number",
-      "at": 1791903631506
+      "at": 1791903931495
     },
     "283": {
       "attempts": 1,
@@ -307,7 +326,7 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1791903631506
+      "at": 1791903931495
     },
     "485": {
       "attempts": 1,
@@ -325,7 +344,7 @@
         "Array"
       ],
       "title": "Max Consecutive Ones",
-      "at": 1791903631506
+      "at": 1791903931495
     },
     "1903": {
       "attempts": 1,
@@ -345,7 +364,7 @@
         "Greedy"
       ],
       "title": "Largest Odd Number in String",
-      "at": 1791903631506
+      "at": 1791903931495
     },
     "2149": {
       "attempts": 1,
@@ -365,7 +384,7 @@
         "Simulation"
       ],
       "title": "Rearrange Array Elements by Sign",
-      "at": 1791903631506
+      "at": 1791903931495
     }
   },
   "achievements": {
@@ -387,11 +406,12 @@
     "2026-10-07",
     "2026-10-08",
     "2026-10-10",
-    "2026-10-11"
+    "2026-10-11",
+    "2026-10-13"
   ],
   "bests": {
     "longestStreak": 4,
-    "pushes": 21
+    "pushes": 22
   },
   "identity": {
     "installId": "1481a6b1-4741-4445-b56d-7a573eb172a6",
