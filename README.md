@@ -44,7 +44,7 @@
 | 189 | [Rotate Array](problems/0189-Rotate-Array) | 🟧 Medium | `Python` | 2026-10-05 |
 | 205 | [Isomorphic Strings](problems/0205-Isomorphic-Strings) | 🟩 Easy | `Python` | 2026-09-26 |
 | 217 | [Contains Duplicate](problems/0217-Contains-Duplicate) | 🟩 Easy | `Python` | 2026-10-11 |
-| 268 | [Missing Number](problems/0268-Missing-Number) | 🟩 Easy | `Python` | 2026-10-06 |
+| 268 | [Missing Number](problems/0268-Missing-Number) | 🟩 Easy | `Python` | 2026-10-14 |
 | 283 | [Move Zeroes](problems/0283-Move-Zeroes) | 🟩 Easy | `Python` | 2026-10-06 |
 | 485 | [Max Consecutive Ones](problems/0485-Max-Consecutive-Ones) | 🟩 Easy | `Python` | 2026-10-05 |
 | 1903 | [Largest Odd Number in String](problems/1903-Largest-Odd-Number-in-String) | 🟩 Easy | `Python` | 2026-09-25 |
