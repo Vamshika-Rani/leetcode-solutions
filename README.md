@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-21%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-16%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-5%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-22%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-17%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-5%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -48,6 +48,7 @@
 | 268 | [Missing Number](problems/0268-Missing-Number) | 🟩 Easy | `Python` | 2026-10-14 |
 | 283 | [Move Zeroes](problems/0283-Move-Zeroes) | 🟩 Easy | `Python` | 2026-10-06 |
 | 485 | [Max Consecutive Ones](problems/0485-Max-Consecutive-Ones) | 🟩 Easy | `Python` | 2026-10-05 |
+| 704 | [Binary Search](problems/0704-Binary-Search) | 🟩 Easy | `Python` | 2026-10-14 |
 | 1903 | [Largest Odd Number in String](problems/1903-Largest-Odd-Number-in-String) | 🟩 Easy | `Python` | 2026-09-25 |
 | 2149 | [Rearrange Array Elements by Sign](problems/2149-Rearrange-Array-Elements-by-Sign) | 🟧 Medium | `Python` | 2026-10-06 |
 
