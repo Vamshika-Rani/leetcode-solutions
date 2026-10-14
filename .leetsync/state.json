@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791993744841,
+  "updatedAt": 1791993950699,
   "devices": {
     "b9e9c9c8-bda0-4acd-a7bf-6717c04c229b": {
-      "lastSeen": 1791993744378
+      "lastSeen": 1791993950270
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1791993744378
+      "at": 1791993950270
     },
     "14": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Trie"
       ],
       "title": "Longest Common Prefix",
-      "at": 1791993744378
+      "at": 1791993950270
     },
     "26": {
       "attempts": 1,
@@ -63,7 +63,7 @@
         "Two Pointers"
       ],
       "title": "Remove Duplicates from Sorted Array",
-      "at": 1791993744378
+      "at": 1791993950270
     },
     "27": {
       "attempts": 1,
@@ -82,7 +82,26 @@
         "Two Pointers"
       ],
       "title": "Remove Element",
-      "at": 1791993744378
+      "at": 1791993950270
+    },
+    "35": {
+      "attempts": 1,
+      "bestMemory": "12.9 MB (Beats 32%)",
+      "bestRuntime": "1 ms (Beats 7%)",
+      "date": "2026-10-14",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-14",
+      "folderName": "0035-Search-Insert-Position",
+      "language": "Python",
+      "number": 35,
+      "slug": "search-insert-position",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Binary Search"
+      ],
+      "title": "Search Insert Position",
+      "at": 1791993950270
     },
     "53": {
       "attempts": 1,
@@ -102,7 +121,7 @@
         "Dynamic Programming"
       ],
       "title": "Maximum Subarray",
-      "at": 1791993744378
+      "at": 1791993950270
     },
     "73": {
       "attempts": 1,
@@ -122,7 +141,7 @@
         "Matrix"
       ],
       "title": "Set Matrix Zeroes",
-      "at": 1791993744378
+      "at": 1791993950270
     },
     "75": {
       "attempts": 1,
@@ -144,7 +163,7 @@
         "Bubble Sort"
       ],
       "title": "Sort Colors",
-      "at": 1791993744378
+      "at": 1791993950270
     },
     "88": {
       "attempts": 2,
@@ -164,7 +183,7 @@
         "Sorting"
       ],
       "title": "Merge Sorted Array",
-      "at": 1791993744378
+      "at": 1791993950270
     },
     "121": {
       "attempts": 3,
@@ -183,7 +202,7 @@
         "Dynamic Programming"
       ],
       "title": "Best Time to Buy and Sell Stock",
-      "at": 1791993744378
+      "at": 1791993950270
     },
     "125": {
       "attempts": 1,
@@ -202,7 +221,7 @@
         "String"
       ],
       "title": "Valid Palindrome",
-      "at": 1791993744378
+      "at": 1791993950270
     },
     "136": {
       "attempts": 2,
@@ -221,7 +240,7 @@
         "Bit Manipulation"
       ],
       "title": "Single Number",
-      "at": 1791993744378
+      "at": 1791993950270
     },
     "169": {
       "attempts": 1,
@@ -244,7 +263,7 @@
         "Boyer–Moore Majority Vote Algorithm"
       ],
       "title": "Majority Element",
-      "at": 1791993744378
+      "at": 1791993950270
     },
     "189": {
       "attempts": 4,
@@ -264,7 +283,7 @@
         "Two Pointers"
       ],
       "title": "Rotate Array",
-      "at": 1791993744378
+      "at": 1791993950270
     },
     "205": {
       "attempts": 3,
@@ -283,7 +302,7 @@
         "String"
       ],
       "title": "Isomorphic Strings",
-      "at": 1791993744378
+      "at": 1791993950270
     },
     "217": {
       "attempts": 1,
@@ -303,7 +322,7 @@
         "Sorting"
       ],
       "title": "Contains Duplicate",
-      "at": 1791993744378
+      "at": 1791993950270
     },
     "268": {
       "attempts": 2,
@@ -326,7 +345,7 @@
         "Sorting"
       ],
       "title": "Missing Number",
-      "at": 1791993744378
+      "at": 1791993950270
     },
     "283": {
       "attempts": 1,
@@ -345,7 +364,7 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1791993744378
+      "at": 1791993950270
     },
     "485": {
       "attempts": 1,
@@ -363,7 +382,7 @@
         "Array"
       ],
       "title": "Max Consecutive Ones",
-      "at": 1791993744378
+      "at": 1791993950270
     },
     "1903": {
       "attempts": 1,
@@ -383,7 +402,7 @@
         "Greedy"
       ],
       "title": "Largest Odd Number in String",
-      "at": 1791993744378
+      "at": 1791993950270
     },
     "2149": {
       "attempts": 1,
@@ -403,7 +422,7 @@
         "Simulation"
       ],
       "title": "Rearrange Array Elements by Sign",
-      "at": 1791993744378
+      "at": 1791993950270
     }
   },
   "achievements": {
@@ -431,7 +450,7 @@
   ],
   "bests": {
     "longestStreak": 4,
-    "pushes": 25
+    "pushes": 26
   },
   "identity": {
     "installId": "1481a6b1-4741-4445-b56d-7a573eb172a6",
