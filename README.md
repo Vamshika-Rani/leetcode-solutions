@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-23%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-18%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-5%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-24%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-19%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-5%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-0%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -50,6 +50,7 @@
 | 349 | [Intersection of Two Arrays](problems/0349-Intersection-of-Two-Arrays) | 🟩 Easy | `Python` | 2026-10-15 |
 | 485 | [Max Consecutive Ones](problems/0485-Max-Consecutive-Ones) | 🟩 Easy | `Python` | 2026-10-05 |
 | 704 | [Binary Search](problems/0704-Binary-Search) | 🟩 Easy | `Python` | 2026-10-14 |
+| 1295 | [Find Numbers with Even Number of Digits](problems/1295-Find-Numbers-with-Even-Number-of-Digits) | 🟩 Easy | `Python` | 2026-10-16 |
 | 1903 | [Largest Odd Number in String](problems/1903-Largest-Odd-Number-in-String) | 🟩 Easy | `Python` | 2026-09-25 |
 | 2149 | [Rearrange Array Elements by Sign](problems/2149-Rearrange-Array-Elements-by-Sign) | 🟧 Medium | `Python` | 2026-10-06 |
 
