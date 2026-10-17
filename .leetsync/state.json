@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1792256770754,
+  "updatedAt": 1792256947154,
   "devices": {
     "b9e9c9c8-bda0-4acd-a7bf-6717c04c229b": {
-      "lastSeen": 1792256770249
+      "lastSeen": 1792256946678
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Hash Table"
       ],
       "title": "Two Sum",
-      "at": 1792256770249
+      "at": 1792256946678
     },
     "14": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Trie"
       ],
       "title": "Longest Common Prefix",
-      "at": 1792256770249
+      "at": 1792256946678
     },
     "26": {
       "attempts": 1,
@@ -63,7 +63,7 @@
         "Two Pointers"
       ],
       "title": "Remove Duplicates from Sorted Array",
-      "at": 1792256770249
+      "at": 1792256946678
     },
     "27": {
       "attempts": 1,
@@ -82,7 +82,7 @@
         "Two Pointers"
       ],
       "title": "Remove Element",
-      "at": 1792256770249
+      "at": 1792256946678
     },
     "35": {
       "attempts": 2,
@@ -101,7 +101,7 @@
         "Binary Search"
       ],
       "title": "Search Insert Position",
-      "at": 1792256770249
+      "at": 1792256946678
     },
     "53": {
       "attempts": 1,
@@ -121,7 +121,7 @@
         "Dynamic Programming"
       ],
       "title": "Maximum Subarray",
-      "at": 1792256770249
+      "at": 1792256946678
     },
     "73": {
       "attempts": 1,
@@ -141,7 +141,7 @@
         "Matrix"
       ],
       "title": "Set Matrix Zeroes",
-      "at": 1792256770249
+      "at": 1792256946678
     },
     "75": {
       "attempts": 1,
@@ -163,7 +163,7 @@
         "Bubble Sort"
       ],
       "title": "Sort Colors",
-      "at": 1792256770249
+      "at": 1792256946678
     },
     "88": {
       "attempts": 2,
@@ -183,7 +183,7 @@
         "Sorting"
       ],
       "title": "Merge Sorted Array",
-      "at": 1792256770249
+      "at": 1792256946678
     },
     "121": {
       "attempts": 3,
@@ -202,7 +202,7 @@
         "Dynamic Programming"
       ],
       "title": "Best Time to Buy and Sell Stock",
-      "at": 1792256770249
+      "at": 1792256946678
     },
     "125": {
       "attempts": 1,
@@ -221,7 +221,7 @@
         "String"
       ],
       "title": "Valid Palindrome",
-      "at": 1792256770249
+      "at": 1792256946678
     },
     "136": {
       "attempts": 2,
@@ -240,7 +240,7 @@
         "Bit Manipulation"
       ],
       "title": "Single Number",
-      "at": 1792256770249
+      "at": 1792256946678
     },
     "169": {
       "attempts": 1,
@@ -263,7 +263,7 @@
         "Boyer–Moore Majority Vote Algorithm"
       ],
       "title": "Majority Element",
-      "at": 1792256770249
+      "at": 1792256946678
     },
     "189": {
       "attempts": 4,
@@ -283,7 +283,7 @@
         "Two Pointers"
       ],
       "title": "Rotate Array",
-      "at": 1792256770249
+      "at": 1792256946678
     },
     "205": {
       "attempts": 3,
@@ -302,7 +302,7 @@
         "String"
       ],
       "title": "Isomorphic Strings",
-      "at": 1792256770249
+      "at": 1792256946678
     },
     "217": {
       "attempts": 1,
@@ -322,7 +322,27 @@
         "Sorting"
       ],
       "title": "Contains Duplicate",
-      "at": 1792256770249
+      "at": 1792256946678
+    },
+    "258": {
+      "attempts": 1,
+      "bestMemory": "12.2 MB (Beats 98%)",
+      "bestRuntime": "2 ms (Beats 27%)",
+      "date": "2026-10-17",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-17",
+      "folderName": "0258-Add-Digits",
+      "language": "Python",
+      "number": 258,
+      "slug": "add-digits",
+      "solutionCount": 1,
+      "tags": [
+        "Math",
+        "Simulation",
+        "Number Theory"
+      ],
+      "title": "Add Digits",
+      "at": 1792256946678
     },
     "268": {
       "attempts": 2,
@@ -345,7 +365,7 @@
         "Sorting"
       ],
       "title": "Missing Number",
-      "at": 1792256770249
+      "at": 1792256946678
     },
     "283": {
       "attempts": 1,
@@ -364,7 +384,7 @@
         "Two Pointers"
       ],
       "title": "Move Zeroes",
-      "at": 1792256770249
+      "at": 1792256946678
     },
     "349": {
       "attempts": 1,
@@ -386,7 +406,7 @@
         "Sorting"
       ],
       "title": "Intersection of Two Arrays",
-      "at": 1792256770249
+      "at": 1792256946678
     },
     "485": {
       "attempts": 1,
@@ -404,7 +424,7 @@
         "Array"
       ],
       "title": "Max Consecutive Ones",
-      "at": 1792256770249
+      "at": 1792256946678
     },
     "704": {
       "attempts": 2,
@@ -423,7 +443,7 @@
         "Binary Search"
       ],
       "title": "Binary Search",
-      "at": 1792256770249
+      "at": 1792256946678
     },
     "1295": {
       "attempts": 1,
@@ -442,7 +462,7 @@
         "Math"
       ],
       "title": "Find Numbers with Even Number of Digits",
-      "at": 1792256770249
+      "at": 1792256946678
     },
     "1903": {
       "attempts": 1,
@@ -462,7 +482,7 @@
         "Greedy"
       ],
       "title": "Largest Odd Number in String",
-      "at": 1792256770249
+      "at": 1792256946678
     },
     "2149": {
       "attempts": 1,
@@ -482,7 +502,7 @@
         "Simulation"
       ],
       "title": "Rearrange Array Elements by Sign",
-      "at": 1792256770249
+      "at": 1792256946678
     }
   },
   "achievements": {
@@ -492,7 +512,8 @@
     "easy_rider": 1791383008259,
     "first_blood": 1790347034385,
     "night_owl": 1790534019172,
-    "on_fire": 1790532677507
+    "on_fire": 1790532677507,
+    "quarter": 1792256782110
   },
   "sheets": {},
   "days": [
@@ -508,11 +529,12 @@
     "2026-10-13",
     "2026-10-14",
     "2026-10-15",
-    "2026-10-16"
+    "2026-10-16",
+    "2026-10-17"
   ],
   "bests": {
-    "longestStreak": 4,
-    "pushes": 31
+    "longestStreak": 5,
+    "pushes": 32
   },
   "identity": {
     "installId": "1481a6b1-4741-4445-b56d-7a573eb172a6",
